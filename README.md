@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A simple 2-player Tic Tac Toe game in pure Python, built for learning basics: lists, functions, loops, and input validation.
 
@@ -82,5 +81,4 @@ def win_check(board, mark):
 - GUI with `ipywidgets`
 - Score tracking
 
-## 📄 License
-MIT — ⭐ Star if useful!
+## ⭐ Star if useful!
